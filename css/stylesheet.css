@@ -1,0 +1,75 @@
+.main-image {
+    width: 80%;
+    height: 100%;
+    display: block;  
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 45px;
+}
+
+h{
+    text-align: left;
+}
+
+.instagram-posts {
+    background-color: #f7f7f7;
+    margin-top: 180px;
+    padding: 30px
+}
+
+
+.contact {
+    background-color: #1f1d1d;
+    padding: 30px;
+    margin-bottom: 1px;
+    color: #afafaf;
+    text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin-bottom: 15px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-github {
+  background: #444444;
+  color: white;
+}
+
+footer p {
+      background-color: #1f1d1d;
+    margin: 0px;
+    padding: 20px;
+    color: #757475;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
